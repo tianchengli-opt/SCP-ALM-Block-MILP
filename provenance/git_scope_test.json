@@ -1,0 +1,22 @@
+{
+  "available": true,
+  "status": "PASS",
+  "private_temp_git_only": true,
+  "remote_created": false,
+  "ignored_as_expected": [
+    ".venv/test",
+    "__pycache__/a.pyc",
+    "gurobi.lic",
+    "outputs/2d/B0300/run.log",
+    "private.key"
+  ],
+  "public_files_not_ignored": [
+    "results/source_summaries/3d/R01/gurobi_extensive.log",
+    "code/run_2d_scaling.py",
+    "configs/2d/B0300/p1p2.json"
+  ],
+  "text_attributes": [
+    "code/run_2d_scaling.py: text: unset",
+    "code/run_3d_difficult.py: text: unset"
+  ]
+}

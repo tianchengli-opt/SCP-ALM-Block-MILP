@@ -1,0 +1,18 @@
+{
+  "filter_name": "P1_POSTRUN_EXTERNAL_FEASIBLE_UB_HISTORY_LB_FILTER",
+  "external_ub_used_only_for_rejection": 1,
+  "p1_gap_uses_p1_own_ub": 1,
+  "p1_original_reported_lb": -351231.43638743827,
+  "p1_own_audited_ub": -351053.09087285347,
+  "p1_history_lb_count": 17,
+  "external_feasible_ub_available": 1,
+  "external_feasible_ub": -351053.09087285347,
+  "external_feasible_ub_source": "P2_Sun_Alg32",
+  "filter_applied": 0,
+  "selected_p1_history_lb": -351231.43638743827,
+  "selected_p1_history_lb_source_iter": 0,
+  "selected_p1_history_lb_source_time_sec": NaN,
+  "admissible_p1_history_lb_count": 17,
+  "rejected_p1_history_lb_count": 0,
+  "reason": "CURRENT_P1_LB_ALREADY_NONCONFLICTING"
+}

@@ -1,0 +1,4 @@
+Actual --execute preflight; expected failure, not a solve.
+Exit code: 2
+LAUNCH FAILED: Missing runtime dependencies: gurobipy. Install requirements.txt and provide a valid Gurobi environment. No optimization was started.
+Output root created: False

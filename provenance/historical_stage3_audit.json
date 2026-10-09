@@ -1,0 +1,12 @@
+{
+  "directory_name": "stage3_1000s",
+  "candidate_records_found": 1,
+  "config_sha256": "b0d6cc9d0d10f01fab9848e9ad3177d201aa5019a666d120a6bde6d4cd142d09",
+  "summary_sha256": "4d62a7f3c756b7cb75b4187c407731928ded2365b81f6dc35100f76da7b32473",
+  "configured_baseline_time_limit": 600.0,
+  "summary_time_limit": "600.0",
+  "recorded_runtime": "61.04700016975403",
+  "status": "INTERRUPTED",
+  "controller_planned_time_limit": 600,
+  "interpretation": "Interrupted historical record; misleading directory name is not the experimental time limit; excluded from formal latest results."
+}

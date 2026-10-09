@@ -1,0 +1,2045 @@
+{
+  "main_script": "[HISTORICAL_SCREENING_DRIVER_NOT_INCLUDED]",
+  "root": "outputs/screening",
+  "python_exe": "[LOCAL_PYTHON_EXECUTABLE]",
+  "family_seeds": "1-10",
+  "candidates_per_family": 40,
+  "stage1_time_limit": 60,
+  "stage2_time_limit": 300,
+  "stage3_time_limit": 600,
+  "stage1_min_gap": 0.01,
+  "stage2_min_gap": 0.007,
+  "stage1_top_k": 60,
+  "stage3_top_k": 30,
+  "cert_rel_gap_target": 0.0005,
+  "baseline_threads": 4,
+  "solver_seed": 1,
+  "n_items": 10,
+  "dcap_profile": "seed159_sunint_dz3_u6_tail48",
+  "mildz_target_low": 80,
+  "mildz_target_high": 180,
+  "mildz_target_mid": 120,
+  "pool_blocks": 360,
+  "common_pool_seed": 161262537,
+  "nested_jitter": 0.02,
+  "tail_active_dims": "1",
+  "tail_delta": 0.1,
+  "max_total_candidates": 0,
+  "dry_run": false,
+  "force": false,
+  "family_seed_values": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "candidate_count": 400,
+  "candidate_specs": [
+    {
+      "family_seed": 1,
+      "candidate_index": 1,
+      "candidate_seed": 1016164991
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 2,
+      "candidate_seed": 1099128568
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 3,
+      "candidate_seed": 1621709874
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 4,
+      "candidate_seed": 2041105244
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 5,
+      "candidate_seed": 74845286
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 6,
+      "candidate_seed": 309580410
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 7,
+      "candidate_seed": 1767258088
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 8,
+      "candidate_seed": 2037209174
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 9,
+      "candidate_seed": 535214420
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 10,
+      "candidate_seed": 669652943
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 11,
+      "candidate_seed": 1866217507
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 12,
+      "candidate_seed": 909086626
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 13,
+      "candidate_seed": 586626705
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 14,
+      "candidate_seed": 1777477784
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 15,
+      "candidate_seed": 551886180
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 16,
+      "candidate_seed": 878748453
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 17,
+      "candidate_seed": 1382612244
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 18,
+      "candidate_seed": 1180243456
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 19,
+      "candidate_seed": 184123696
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 20,
+      "candidate_seed": 59182744
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 21,
+      "candidate_seed": 1858836761
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 22,
+      "candidate_seed": 1618157078
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 23,
+      "candidate_seed": 1799343697
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 24,
+      "candidate_seed": 1155653964
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 25,
+      "candidate_seed": 1755663523
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 26,
+      "candidate_seed": 708093468
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 27,
+      "candidate_seed": 972122756
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 28,
+      "candidate_seed": 1693137747
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 29,
+      "candidate_seed": 266112162
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 30,
+      "candidate_seed": 651105937
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 31,
+      "candidate_seed": 267191830
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 32,
+      "candidate_seed": 973879301
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 33,
+      "candidate_seed": 2097889540
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 34,
+      "candidate_seed": 287852352
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 35,
+      "candidate_seed": 823155374
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 36,
+      "candidate_seed": 865678546
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 37,
+      "candidate_seed": 1941050025
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 38,
+      "candidate_seed": 436916801
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 39,
+      "candidate_seed": 1078591221
+    },
+    {
+      "family_seed": 1,
+      "candidate_index": 40,
+      "candidate_seed": 563313608
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 1,
+      "candidate_seed": 1798679647
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 2,
+      "candidate_seed": 561807779
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 3,
+      "candidate_seed": 234731697
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 4,
+      "candidate_seed": 641004849
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 5,
+      "candidate_seed": 888658062
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 6,
+      "candidate_seed": 1748536462
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 7,
+      "candidate_seed": 969095166
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 8,
+      "candidate_seed": 197387982
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 9,
+      "candidate_seed": 719155818
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 10,
+      "candidate_seed": 1288706065
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 11,
+      "candidate_seed": 1746310707
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 12,
+      "candidate_seed": 1564571816
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 13,
+      "candidate_seed": 2132147591
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 14,
+      "candidate_seed": 403514481
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 15,
+      "candidate_seed": 1890275150
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 16,
+      "candidate_seed": 118426479
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 17,
+      "candidate_seed": 1198780981
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 18,
+      "candidate_seed": 590492220
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 19,
+      "candidate_seed": 432399589
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 20,
+      "candidate_seed": 1411826648
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 21,
+      "candidate_seed": 656492380
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 22,
+      "candidate_seed": 1207456315
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 23,
+      "candidate_seed": 558688960
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 24,
+      "candidate_seed": 322256256
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 25,
+      "candidate_seed": 1608849034
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 26,
+      "candidate_seed": 929067548
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 27,
+      "candidate_seed": 1457523177
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 28,
+      "candidate_seed": 1437305003
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 29,
+      "candidate_seed": 2029896997
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 30,
+      "candidate_seed": 907923171
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 31,
+      "candidate_seed": 471880638
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 32,
+      "candidate_seed": 1359753142
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 33,
+      "candidate_seed": 2007792139
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 34,
+      "candidate_seed": 2077552887
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 35,
+      "candidate_seed": 1863784366
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 36,
+      "candidate_seed": 1466870535
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 37,
+      "candidate_seed": 816411670
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 38,
+      "candidate_seed": 841007924
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 39,
+      "candidate_seed": 85429457
+    },
+    {
+      "family_seed": 2,
+      "candidate_index": 40,
+      "candidate_seed": 402121831
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 1,
+      "candidate_seed": 1742692731
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 2,
+      "candidate_seed": 183930185
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 3,
+      "candidate_seed": 385346042
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 4,
+      "candidate_seed": 508546690
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 5,
+      "candidate_seed": 389477914
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 6,
+      "candidate_seed": 1720723810
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 7,
+      "candidate_seed": 1866662801
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 8,
+      "candidate_seed": 1250183451
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 9,
+      "candidate_seed": 84608902
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 10,
+      "candidate_seed": 202139719
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 11,
+      "candidate_seed": 713397379
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 12,
+      "candidate_seed": 930133021
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 13,
+      "candidate_seed": 1334076656
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 14,
+      "candidate_seed": 1028754828
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 15,
+      "candidate_seed": 568628368
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 16,
+      "candidate_seed": 343036706
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 17,
+      "candidate_seed": 1484806552
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 18,
+      "candidate_seed": 1577492419
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 19,
+      "candidate_seed": 70197375
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 20,
+      "candidate_seed": 244108803
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 21,
+      "candidate_seed": 970934606
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 22,
+      "candidate_seed": 840156141
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 23,
+      "candidate_seed": 1906589685
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 24,
+      "candidate_seed": 1109691091
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 25,
+      "candidate_seed": 902188167
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 26,
+      "candidate_seed": 924766631
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 27,
+      "candidate_seed": 1430942358
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 28,
+      "candidate_seed": 1260140335
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 29,
+      "candidate_seed": 371155108
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 30,
+      "candidate_seed": 1584494582
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 31,
+      "candidate_seed": 1625089670
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 32,
+      "candidate_seed": 2053568291
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 33,
+      "candidate_seed": 1688352591
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 34,
+      "candidate_seed": 610317351
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 35,
+      "candidate_seed": 687170219
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 36,
+      "candidate_seed": 1392744521
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 37,
+      "candidate_seed": 1396642889
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 38,
+      "candidate_seed": 1495112467
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 39,
+      "candidate_seed": 1866714245
+    },
+    {
+      "family_seed": 3,
+      "candidate_index": 40,
+      "candidate_seed": 628613021
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 1,
+      "candidate_seed": 1560023974
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 2,
+      "candidate_seed": 2025197564
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 3,
+      "candidate_seed": 1892783321
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 4,
+      "candidate_seed": 1098067557
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 5,
+      "candidate_seed": 2019575648
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 6,
+      "candidate_seed": 2096467393
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 7,
+      "candidate_seed": 2083673626
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 8,
+      "candidate_seed": 173594038
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 9,
+      "candidate_seed": 973933017
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 10,
+      "candidate_seed": 1304286716
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 11,
+      "candidate_seed": 608018050
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 12,
+      "candidate_seed": 808498783
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 13,
+      "candidate_seed": 1346405564
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 14,
+      "candidate_seed": 1722069728
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 15,
+      "candidate_seed": 1247479809
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 16,
+      "candidate_seed": 374795630
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 17,
+      "candidate_seed": 1451650247
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 18,
+      "candidate_seed": 1871822497
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 19,
+      "candidate_seed": 471704329
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 20,
+      "candidate_seed": 1168105262
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 21,
+      "candidate_seed": 726285598
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 22,
+      "candidate_seed": 1937492129
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 23,
+      "candidate_seed": 130025050
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 24,
+      "candidate_seed": 1024679389
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 25,
+      "candidate_seed": 1927500810
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 26,
+      "candidate_seed": 924483716
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 27,
+      "candidate_seed": 299455047
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 28,
+      "candidate_seed": 1694250174
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 29,
+      "candidate_seed": 2071155659
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 30,
+      "candidate_seed": 2113452473
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 31,
+      "candidate_seed": 1996857197
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 32,
+      "candidate_seed": 793980093
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 33,
+      "candidate_seed": 1573398771
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 34,
+      "candidate_seed": 2080767491
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 35,
+      "candidate_seed": 1231563123
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 36,
+      "candidate_seed": 1995068975
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 37,
+      "candidate_seed": 1265693069
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 38,
+      "candidate_seed": 381591921
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 39,
+      "candidate_seed": 996549786
+    },
+    {
+      "family_seed": 4,
+      "candidate_index": 40,
+      "candidate_seed": 1307498890
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 1,
+      "candidate_seed": 1440510675
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 2,
+      "candidate_seed": 1728730614
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 3,
+      "candidate_seed": 48647418
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 4,
+      "candidate_seed": 1735039633
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 5,
+      "candidate_seed": 1006851807
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 6,
+      "candidate_seed": 1106653214
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 7,
+      "candidate_seed": 1353417274
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 8,
+      "candidate_seed": 613753789
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 9,
+      "candidate_seed": 2103511157
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 10,
+      "candidate_seed": 115815300
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 11,
+      "candidate_seed": 596836679
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 12,
+      "candidate_seed": 823278402
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 13,
+      "candidate_seed": 1226609121
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 14,
+      "candidate_seed": 877189528
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 15,
+      "candidate_seed": 281451238
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 16,
+      "candidate_seed": 97227738
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 17,
+      "candidate_seed": 2180441
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 18,
+      "candidate_seed": 104706386
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 19,
+      "candidate_seed": 319577159
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 20,
+      "candidate_seed": 2145714367
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 21,
+      "candidate_seed": 410131242
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 22,
+      "candidate_seed": 1400951998
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 23,
+      "candidate_seed": 1611168693
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 24,
+      "candidate_seed": 503606822
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 25,
+      "candidate_seed": 606100190
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 26,
+      "candidate_seed": 934042755
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 27,
+      "candidate_seed": 565298527
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 28,
+      "candidate_seed": 2092048919
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 29,
+      "candidate_seed": 381654049
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 30,
+      "candidate_seed": 1927747983
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 31,
+      "candidate_seed": 1713023723
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 32,
+      "candidate_seed": 1812972347
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 33,
+      "candidate_seed": 248528774
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 34,
+      "candidate_seed": 842682599
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 35,
+      "candidate_seed": 1348684712
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 36,
+      "candidate_seed": 1058758870
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 37,
+      "candidate_seed": 1429937342
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 38,
+      "candidate_seed": 1453179316
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 39,
+      "candidate_seed": 1423623577
+    },
+    {
+      "family_seed": 5,
+      "candidate_index": 40,
+      "candidate_seed": 130572831
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 1,
+      "candidate_seed": 955728254
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 2,
+      "candidate_seed": 1155699143
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 3,
+      "candidate_seed": 1111885934
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 4,
+      "candidate_seed": 737168579
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 5,
+      "candidate_seed": 2031819254
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 6,
+      "candidate_seed": 792565861
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 7,
+      "candidate_seed": 1412471217
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 8,
+      "candidate_seed": 804225679
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 9,
+      "candidate_seed": 966185142
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 10,
+      "candidate_seed": 2120521968
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 11,
+      "candidate_seed": 400620265
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 12,
+      "candidate_seed": 1358833747
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 13,
+      "candidate_seed": 916926068
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 14,
+      "candidate_seed": 1448099613
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 15,
+      "candidate_seed": 1622851427
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 16,
+      "candidate_seed": 708591124
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 17,
+      "candidate_seed": 1443721275
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 18,
+      "candidate_seed": 1460112058
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 19,
+      "candidate_seed": 970518846
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 20,
+      "candidate_seed": 264081163
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 21,
+      "candidate_seed": 1326097161
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 22,
+      "candidate_seed": 111087679
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 23,
+      "candidate_seed": 1902530057
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 24,
+      "candidate_seed": 1825772013
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 25,
+      "candidate_seed": 1817346418
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 26,
+      "candidate_seed": 19103596
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 27,
+      "candidate_seed": 2086271661
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 28,
+      "candidate_seed": 2101887333
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 29,
+      "candidate_seed": 1258165683
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 30,
+      "candidate_seed": 1775975473
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 31,
+      "candidate_seed": 1648304177
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 32,
+      "candidate_seed": 1686227694
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 33,
+      "candidate_seed": 329807037
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 34,
+      "candidate_seed": 103258501
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 35,
+      "candidate_seed": 569500762
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 36,
+      "candidate_seed": 445472431
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 37,
+      "candidate_seed": 1177541701
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 38,
+      "candidate_seed": 1825072544
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 39,
+      "candidate_seed": 1606396927
+    },
+    {
+      "family_seed": 6,
+      "candidate_index": 40,
+      "candidate_seed": 928775535
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 1,
+      "candidate_seed": 2029167940
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 2,
+      "candidate_seed": 1342382291
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 3,
+      "candidate_seed": 1469265225
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 4,
+      "candidate_seed": 1926751965
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 5,
+      "candidate_seed": 1241873584
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 6,
+      "candidate_seed": 1665772334
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 7,
+      "candidate_seed": 1790251936
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 8,
+      "candidate_seed": 483628757
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 9,
+      "candidate_seed": 119253154
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 10,
+      "candidate_seed": 644602188
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 11,
+      "candidate_seed": 612176793
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 12,
+      "candidate_seed": 1875941738
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 13,
+      "candidate_seed": 1959843383
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 14,
+      "candidate_seed": 11307154
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 15,
+      "candidate_seed": 1073283950
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 16,
+      "candidate_seed": 1763574598
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 17,
+      "candidate_seed": 282266798
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 18,
+      "candidate_seed": 1711693563
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 19,
+      "candidate_seed": 255728784
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 20,
+      "candidate_seed": 1004882659
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 21,
+      "candidate_seed": 1753345571
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 22,
+      "candidate_seed": 650757180
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 23,
+      "candidate_seed": 733587778
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 24,
+      "candidate_seed": 597914448
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 25,
+      "candidate_seed": 1545052023
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 26,
+      "candidate_seed": 547328271
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 27,
+      "candidate_seed": 2126996168
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 28,
+      "candidate_seed": 955794088
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 29,
+      "candidate_seed": 1026816910
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 30,
+      "candidate_seed": 1083509134
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 31,
+      "candidate_seed": 1251001413
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 32,
+      "candidate_seed": 1188626511
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 33,
+      "candidate_seed": 1094029748
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 34,
+      "candidate_seed": 2137820579
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 35,
+      "candidate_seed": 1734444720
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 36,
+      "candidate_seed": 1702228508
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 37,
+      "candidate_seed": 1503827930
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 38,
+      "candidate_seed": 1336119720
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 39,
+      "candidate_seed": 732347574
+    },
+    {
+      "family_seed": 7,
+      "candidate_index": 40,
+      "candidate_seed": 2123775744
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 1,
+      "candidate_seed": 1545220601
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 2,
+      "candidate_seed": 702167616
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 3,
+      "candidate_seed": 503597500
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 4,
+      "candidate_seed": 2120160876
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 5,
+      "candidate_seed": 378027506
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 6,
+      "candidate_seed": 684426313
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 7,
+      "candidate_seed": 1380032418
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 8,
+      "candidate_seed": 1693395944
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 9,
+      "candidate_seed": 1373808879
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 10,
+      "candidate_seed": 1868088533
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 11,
+      "candidate_seed": 103777466
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 12,
+      "candidate_seed": 839848226
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 13,
+      "candidate_seed": 1231888088
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 14,
+      "candidate_seed": 940344161
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 15,
+      "candidate_seed": 834608148
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 16,
+      "candidate_seed": 800472173
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 17,
+      "candidate_seed": 86214689
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 18,
+      "candidate_seed": 229681099
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 19,
+      "candidate_seed": 1165346121
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 20,
+      "candidate_seed": 1028570480
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 21,
+      "candidate_seed": 2057627919
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 22,
+      "candidate_seed": 518299784
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 23,
+      "candidate_seed": 1822985620
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 24,
+      "candidate_seed": 552215215
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 25,
+      "candidate_seed": 307041362
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 26,
+      "candidate_seed": 396707997
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 27,
+      "candidate_seed": 854285176
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 28,
+      "candidate_seed": 416320948
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 29,
+      "candidate_seed": 1923481260
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 30,
+      "candidate_seed": 1747681612
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 31,
+      "candidate_seed": 1727786563
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 32,
+      "candidate_seed": 908351626
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 33,
+      "candidate_seed": 65241235
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 34,
+      "candidate_seed": 549585099
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 35,
+      "candidate_seed": 956872797
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 36,
+      "candidate_seed": 1268954210
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 37,
+      "candidate_seed": 966147481
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 38,
+      "candidate_seed": 1297664873
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 39,
+      "candidate_seed": 813017037
+    },
+    {
+      "family_seed": 8,
+      "candidate_index": 40,
+      "candidate_seed": 1389117034
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 1,
+      "candidate_seed": 905266064
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 2,
+      "candidate_seed": 1868845934
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 3,
+      "candidate_seed": 2063827471
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 4,
+      "candidate_seed": 615935265
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 5,
+      "candidate_seed": 245584350
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 6,
+      "candidate_seed": 1295250788
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 7,
+      "candidate_seed": 1433488763
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 8,
+      "candidate_seed": 1669741727
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 9,
+      "candidate_seed": 1380029761
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 10,
+      "candidate_seed": 1537758556
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 11,
+      "candidate_seed": 1965526453
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 12,
+      "candidate_seed": 1965763839
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 13,
+      "candidate_seed": 1989829891
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 14,
+      "candidate_seed": 1847681291
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 15,
+      "candidate_seed": 1548366090
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 16,
+      "candidate_seed": 1971900292
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 17,
+      "candidate_seed": 28050645
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 18,
+      "candidate_seed": 57096724
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 19,
+      "candidate_seed": 1712926925
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 20,
+      "candidate_seed": 938982929
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 21,
+      "candidate_seed": 1606711276
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 22,
+      "candidate_seed": 1041410011
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 23,
+      "candidate_seed": 1936474743
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 24,
+      "candidate_seed": 139917572
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 25,
+      "candidate_seed": 1446612636
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 26,
+      "candidate_seed": 12081851
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 27,
+      "candidate_seed": 317986815
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 28,
+      "candidate_seed": 1783745952
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 29,
+      "candidate_seed": 628196374
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 30,
+      "candidate_seed": 2111625489
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 31,
+      "candidate_seed": 748477721
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 32,
+      "candidate_seed": 1684936827
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 33,
+      "candidate_seed": 2061899946
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 34,
+      "candidate_seed": 677753333
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 35,
+      "candidate_seed": 2100731750
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 36,
+      "candidate_seed": 1514692595
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 37,
+      "candidate_seed": 2080164268
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 38,
+      "candidate_seed": 642486461
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 39,
+      "candidate_seed": 1101566026
+    },
+    {
+      "family_seed": 9,
+      "candidate_index": 40,
+      "candidate_seed": 1590745253
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 1,
+      "candidate_seed": 1667601611
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 2,
+      "candidate_seed": 2052998037
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 3,
+      "candidate_seed": 566977183
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 4,
+      "candidate_seed": 445993290
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 5,
+      "candidate_seed": 1702056617
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 6,
+      "candidate_seed": 1779071843
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 7,
+      "candidate_seed": 1105361715
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 8,
+      "candidate_seed": 320580917
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 9,
+      "candidate_seed": 1788575728
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 10,
+      "candidate_seed": 1101239527
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 11,
+      "candidate_seed": 329308217
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 12,
+      "candidate_seed": 291885126
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 13,
+      "candidate_seed": 882452039
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 14,
+      "candidate_seed": 1479694572
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 15,
+      "candidate_seed": 866858020
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 16,
+      "candidate_seed": 1807639472
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 17,
+      "candidate_seed": 17445413
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 18,
+      "candidate_seed": 913773613
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 19,
+      "candidate_seed": 1125691529
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 20,
+      "candidate_seed": 2054982943
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 21,
+      "candidate_seed": 505385130
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 22,
+      "candidate_seed": 1772388919
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 23,
+      "candidate_seed": 154274979
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 24,
+      "candidate_seed": 726311852
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 25,
+      "candidate_seed": 1607876997
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 26,
+      "candidate_seed": 1236436360
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 27,
+      "candidate_seed": 2015896794
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 28,
+      "candidate_seed": 1617703435
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 29,
+      "candidate_seed": 1963530690
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 30,
+      "candidate_seed": 1776192178
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 31,
+      "candidate_seed": 291610352
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 32,
+      "candidate_seed": 2004543851
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 33,
+      "candidate_seed": 1813750616
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 34,
+      "candidate_seed": 311373735
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 35,
+      "candidate_seed": 2101290457
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 36,
+      "candidate_seed": 1601121310
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 37,
+      "candidate_seed": 674980032
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 38,
+      "candidate_seed": 299254839
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 39,
+      "candidate_seed": 834470986
+    },
+    {
+      "family_seed": 10,
+      "candidate_index": 40,
+      "candidate_seed": 1946755679
+    }
+  ]
+}

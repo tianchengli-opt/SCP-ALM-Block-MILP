@@ -1,0 +1,79 @@
+{
+  "audit_date": "2026-10-08 (conversation date, America/Los_Angeles)",
+  "environment": {
+    "python": "3.13.5",
+    "platform": "Linux",
+    "numpy": "2.3.5",
+    "gurobipy_installed": false,
+    "powershell_available": false
+  },
+  "unittest": {
+    "status": "PASS",
+    "tests_run": 13,
+    "evidence": "provenance/unit_tests.txt",
+    "optimization_executed": false
+  },
+  "actual_missing_dependency_preflight": {
+    "status": "EXPECTED_FAILURE",
+    "exit_code": 2,
+    "missing": "gurobipy",
+    "created_output_root": false,
+    "evidence": "provenance/missing_dependency_test.txt"
+  },
+  "entrypoint_arguments": {
+    "status": "PASS",
+    "calls": 140,
+    "generator_called": false,
+    "solver_called": false,
+    "minimal_instance_interface_used": true
+  },
+  "markdown_local_links": {
+    "status": "PASS",
+    "links_checked": 6
+  },
+  "latest_source_byte_checks": {
+    "status": "PASS",
+    "files": 2
+  },
+  "archived_identity": {
+    "status": "PASS",
+    "instances": 40,
+    "original_manifests_read": 140
+  },
+  "archived_numerical_records": {
+    "status": "PASS",
+    "records": 160,
+    "native_logs": 40,
+    "known_runtime_print_discrepancies": 2
+  },
+  "historical_screening": {
+    "status": "PASS_FOR_SUPPLIED_EVIDENCE_ONLY",
+    "ranked_records": 460,
+    "selected_records": 20,
+    "duplicate_stage2_files": 780
+  },
+  "old_latest_payload_acceptance_tests": {
+    "status": "PASS",
+    "tested_instances": 40,
+    "nonexact_2d": 20,
+    "strict_equal_3d": 20,
+    "atol": 1e-13,
+    "source_max_deviation": 5.684341886080802e-14
+  },
+  "not_performed": [
+    "Full optimization rerun",
+    "Fresh third-party end-to-end reproduction",
+    "Gurobi license/solve validation",
+    "Windows PowerShell execution",
+    "Exact historical environment recreation"
+  ],
+  "not_completed": [
+    {
+      "test": "Independent structural-only instance regeneration",
+      "limit_sec": 20,
+      "completed_instances": 0,
+      "reason": "First 2D instance did not finish before bounded test timeout; no optimizer invoked"
+    }
+  ],
+  "zip_roundtrip": "Final delivery is gated on a fresh-extraction hash verifier and unit-test pass; see delivery report. This field is not a fabricated in-archive future test log."
+}

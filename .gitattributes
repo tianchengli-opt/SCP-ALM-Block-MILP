@@ -1,0 +1,3 @@
+# Frozen files and reference artifacts must not undergo newline conversion on Windows.
+# The whole payload is preserved byte-for-byte; no Git LFS configuration is used.
+* -text

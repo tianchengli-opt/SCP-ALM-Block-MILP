@@ -1,0 +1,96 @@
+{
+  "archives": [
+    {
+      "archive": "仿真文件(1).zip",
+      "sha256": "a23c8b7a9bbf51bd0448cbd08ab3b2be1f8b77704aa59ed533afebd03487b768",
+      "members": 7,
+      "bytes": 77329675,
+      "duplicates": []
+    },
+    {
+      "archive": "仿真文件(1).zip!/仿真文件/SCP_ALM_GitHub_repository_DRAFT.zip",
+      "sha256": "df71add552e026b85e60836b7617877d3a1822019b978f7ac9a0b8022c41e2fe",
+      "members": 378,
+      "bytes": 49512444,
+      "duplicates": []
+    },
+    {
+      "archive": "仿真文件(1).zip!/仿真文件/Study1_2D_Scaling.zip",
+      "sha256": "2fa3313ce7284f908d502fc78f877e34d144499aae569eacf99aa275be2eeff2",
+      "members": 901,
+      "bytes": 112758208,
+      "duplicates": []
+    },
+    {
+      "archive": "仿真文件(1).zip!/仿真文件/Study2_3D_Difficult.zip",
+      "sha256": "d565e18959327fb5a8b03113a12b1bbe68868ebea5c5fe0e8b42f28e10ee62b2",
+      "members": 984,
+      "bytes": 44766215,
+      "duplicates": []
+    },
+    {
+      "archive": "仿真文件(1).zip!/仿真文件/仿真.zip",
+      "sha256": "02b4dcc7e4f9ed0ca88927e17d2149f23aff4f79ee5380d011341749ce39bd9b",
+      "members": 8380,
+      "bytes": 298711085,
+      "duplicates": []
+    },
+    {
+      "archive": "仿真文件(1).zip!/仿真文件/仿真.zip!/仿真/DZ3_A0_Hunter_F1to10_C40_Final20_P1_1800s/stage2_300s.zip",
+      "sha256": "10f3c7ecfc5829257e2cb36b2f061782add9effef6a6d5a6ab553d0493154e0b",
+      "members": 851,
+      "bytes": 19020574,
+      "duplicates": []
+    }
+  ],
+  "input_file_occurrences": 10312,
+  "same_basename_different_content_groups": {
+    "gurobi.json": 40,
+    "p1_norho.json": 40,
+    "p1p2.json": 20,
+    "p1.json": 20,
+    "p2.json": 20,
+    "Gurobi.csv": 40,
+    "RD_ALM.csv": 40,
+    "SCP_ALM.csv": 40,
+    "SCP_LR.csv": 40,
+    "stage1_60s_ranking.csv": 2,
+    "stage2_300s_ranking.csv": 2,
+    "all_algorithms_summary.csv": 801,
+    "config.json": 801,
+    "gurobi_baseline_log.csv": 601,
+    "gurobi_baseline_log.json": 601,
+    "gurobi_extensive.log": 581,
+    "gurobi_report.md": 601,
+    "gurobi_summary.csv": 601,
+    "instance_manifest.json": 801,
+    "run.log": 801,
+    "summary.csv": 801,
+    "p1prime_log.csv": 80,
+    "p1_batch_mispricing_log.csv": 80,
+    "p1_incumbent_audit.csv": 80,
+    "p1_incumbent_audit.jsonl": 80,
+    "p1_postrun_lb_filter.csv": 40,
+    "p1_postrun_lb_filter.json": 40,
+    "p1_report.md": 80,
+    "p1_summary.csv": 80,
+    "p2_fixed_z_audit.csv": 80,
+    "p2_report.md": 80,
+    "p2_summary.csv": 80,
+    "p2_theory_log.csv": 80,
+    "p1_norho_batch_mispricing_log.csv": 80,
+    "p1_norho_incumbent_audit.csv": 80,
+    "p1_norho_incumbent_audit.jsonl": 80,
+    "p1_norho_log.csv": 80,
+    "p1_norho_report.md": 80,
+    "p1_norho_summary.csv": 80,
+    "p1_final_stop_audit.csv": 2,
+    "p1_final_stop_audit.jsonl": 2,
+    "command.txt": 521,
+    "hunter_child_console.log": 521,
+    "HUNTER_RESULT.json": 520
+  },
+  "zip_duplicate_member_paths": 0,
+  "errors": [],
+  "mirrored_stage2_files_verified": 780
+}

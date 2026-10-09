@@ -1,0 +1,14 @@
+{
+  "status": "PASS_FOR_SCANNED_PATTERNS_AND_FILE_REVIEW",
+  "patterns_checked": [
+    "windows_private_profile",
+    "credential_assignment",
+    "email_address",
+    "private_ipv4"
+  ],
+  "matches": [],
+  "frozen_source_changed": false,
+  "original_input_changed": false,
+  "license_file_included": false,
+  "scope_note": "Pattern scans plus review of latest native logs, summary path fields and public scope. Not a cryptographic guarantee that arbitrary undisclosed sensitive text cannot exist."
+}

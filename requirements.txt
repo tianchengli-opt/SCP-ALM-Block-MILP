@@ -1,0 +1,5 @@
+# Runtime dependencies only. The original Python/NumPy package versions were not archived.
+# This is not a historical environment lock. For solver-version comparability, use
+# an installation whose Gurobi engine reports 13.0.1 (the version in all 40 native logs).
+numpy
+gurobipy

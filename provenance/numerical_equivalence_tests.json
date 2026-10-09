@@ -1,0 +1,382 @@
+[
+  {
+    "study": "2d",
+    "instance_id": "B0300",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "cb688fd284029ecd164a0d0d682257359d6d49c35b50f13b41a6f694501b66fc",
+    "actual_payload_sha256": "031d274e2c3c04b8fcf5535e200699d46d5891a6b39ea2a9fc56da10636d635c",
+    "numerically_different_fields": 688,
+    "max_absolute_difference": 2.842170943040401e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0360",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "e42c3d4d4b9951cb8a293ab26890559c9c3a032abb5c51a65a9ce9420c6a65aa",
+    "actual_payload_sha256": "f88701a41ebdc5d0ed96358d1506da82f2c3f6c58912ac588b30d43e2f3c4a24",
+    "numerically_different_fields": 821,
+    "max_absolute_difference": 2.842170943040401e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0420",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "7b8cc27f35a36877f552b4ab3cb0e3aa59a4448671bb01abe9ee2614b0918a27",
+    "actual_payload_sha256": "26b7b4ca0f707e8aac422dcc7c403747703befe8b72c1af9e698b15f092b44d9",
+    "numerically_different_fields": 965,
+    "max_absolute_difference": 2.842170943040401e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0480",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "5f2b1d21aae95d90328bb14ce2dac5be5dce41005520d9d7dcd7e7c2c02af144",
+    "actual_payload_sha256": "9bc3de415874c2934fa98fc5c0602c034bc372f8ec6e1912328cf535b94c8409",
+    "numerically_different_fields": 1102,
+    "max_absolute_difference": 2.842170943040401e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0540",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "9ae5236b381cc41a3fa2f45252e1bfbc3e5654f865c9eab14920200cbf4ea781",
+    "actual_payload_sha256": "a3858eb16123d68433888f6341d7c468b4bf4ec4b546409856f33151613c6c24",
+    "numerically_different_fields": 1236,
+    "max_absolute_difference": 2.842170943040401e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0600",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "c289b726429b49e2a642fb2b1251c7b4d29f72f37ae1232a281a99fb7ea2392f",
+    "actual_payload_sha256": "86f5d7e72c86b90c8912a5c47faaaa8d68d86094000549ecc60b754c5fc067f6",
+    "numerically_different_fields": 1375,
+    "max_absolute_difference": 2.842170943040401e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0660",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "d193a34e84c05a472218813dd06f3df17141773c8884778ecaa29b85b0a69007",
+    "actual_payload_sha256": "01de1668fe210c400b281bdf6eca33fd9a6462a5dbc5656412301cf4423d9f75",
+    "numerically_different_fields": 1513,
+    "max_absolute_difference": 2.842170943040401e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0720",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "5ccc12e229e39928b34bdd60a763de94c01df659ff0f5a4c42e4b1bfd28bb864",
+    "actual_payload_sha256": "5e9b957f20b8903085aecb1d54ded3275247eff9848f5230dd3e916d26156067",
+    "numerically_different_fields": 1659,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0780",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "86b2a167ffc3bd21f5970bc36fdf428c4a94a0001a8c659e972aa7aca509222b",
+    "actual_payload_sha256": "bed2b1d9f60ddf56d4d2795b74f5b47f6179c4786eaa9e6d85ec4168ec375e89",
+    "numerically_different_fields": 1796,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0840",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "702b061bab177443985d55b62e5b3af5f7528779db1f193a6ed12566e864e881",
+    "actual_payload_sha256": "e03d41a18d4fd2cec600c99616a0da29e4ef439475785322e212ee2d84dcfb7c",
+    "numerically_different_fields": 1917,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0900",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "e45576bbb5d0caced9c80b96068c19b35cad0af77bf97bd7c870f019f849e937",
+    "actual_payload_sha256": "a4c663c975c7d5d0025c6f95e5772e4b882f3f39ccb585818ef88934f68b55ac",
+    "numerically_different_fields": 2047,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B0960",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "15dc8cb7886f0030ef445bd85d138bc3b2b67a2d2a66d9d48f352f8f464965f0",
+    "actual_payload_sha256": "4727a72cfe0f70d2812fddb5c5491e894483ca1e6ef0f14528311ece0cbe583b",
+    "numerically_different_fields": 2175,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B1020",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "83811af91d6c497856d27a6ac44fd1c71f0effb2dd97d61be8213c6cbf679f9b",
+    "actual_payload_sha256": "f118486ec71524969da205b8db96fd085d8d8820a9ba957c56119d41c0722e03",
+    "numerically_different_fields": 2313,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B1080",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "02502eb0aa0db0a6e92e4a1adb93f4201691397ef8aaba6e55c9729f05f470cf",
+    "actual_payload_sha256": "364b1a78a117b1966f47b3dccbaf1e3ae1cc5b51afd24557ccabebe3d7d8b0b6",
+    "numerically_different_fields": 2445,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B1140",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "fc96e7f9951a3834077941e903a373c803a946422e236f0664202695531921e1",
+    "actual_payload_sha256": "61b824e653fc356449d46a5c1efea58ca54cf167fcc88e6bbfcc7b1ca259f385",
+    "numerically_different_fields": 2592,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B1200",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "b39c5eb505467f3389e04f0dfb30cbab16c2b37142168a856e1c9259f7137f74",
+    "actual_payload_sha256": "e8ace95c007a2be25a21dcfe4c03ff685570fab4f610cd7b0045f89b90d807fa",
+    "numerically_different_fields": 2730,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B1260",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "3ff100925c66664ddcd7c0377007ad28a2a89ff114702cab59746505068a4d6a",
+    "actual_payload_sha256": "dd70e46255e2e680b0cfd6dc859b9394b87938a0fd34c4af59ef77a4e10b1989",
+    "numerically_different_fields": 2866,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B1320",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "9acd39e6d44abe700436c417e0a96872d1de765f343a06ed9c994ab11ef45d5d",
+    "actual_payload_sha256": "2b5c853387251944297d30a8be6dda3a14889aa17e5c5388c8513b75677e03e5",
+    "numerically_different_fields": 2998,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B1380",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "f9782994d19ad056dac4c681344952aaa75934339d59f984339e3988459072f7",
+    "actual_payload_sha256": "61c242c36590822ed54aa63685e40e97064536f1a5b5b163b1c1a14de68218aa",
+    "numerically_different_fields": 3130,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "2d",
+    "instance_id": "B1440",
+    "mode": "numerical",
+    "strict_hash_equal": false,
+    "reference_payload_sha256": "bb087512b3fced80e991335e3ef4712dcd95408e93dbf02c7b2c73884dd8c3e5",
+    "actual_payload_sha256": "01065556ae8c93d66d1961fa0cd291c15e2a178b3cdbac4c27469cb92058ca0f",
+    "numerically_different_fields": 3274,
+    "max_absolute_difference": 5.684341886080802e-14,
+    "absolute_tolerance": 1e-13
+  },
+  {
+    "study": "3d",
+    "instance_id": "R01",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R02",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R03",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R04",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R05",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R06",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R07",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R08",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R09",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R10",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R11",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R12",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R13",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R14",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R15",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R16",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R17",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R18",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R19",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  },
+  {
+    "study": "3d",
+    "instance_id": "R20",
+    "mode": "numerical",
+    "strict_hash_equal": true,
+    "numerically_different_fields": 0,
+    "max_absolute_difference": 0
+  }
+]

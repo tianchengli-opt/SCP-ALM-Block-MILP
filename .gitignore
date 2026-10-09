@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+temporary/
+tmp/
+cache/
+outputs/
+logs/
+runs/
+temp/
+gurobi.lic
+*.key
+*.pem
+
+# Audited, path-redacted native logs are intentional reference evidence.
+!results/source_summaries/**/gurobi_extensive.log

@@ -1,0 +1,18 @@
+test_actual_parser_roundtrips_all_calls (__main__.RepositoryTests.test_actual_parser_roundtrips_all_calls) ... ok
+test_all_python_syntax_without_importing_drivers (__main__.RepositoryTests.test_all_python_syntax_without_importing_drivers) ... ok
+test_bounds_and_gap_errors_rejected (__main__.RepositoryTests.test_bounds_and_gap_errors_rejected) ... ok
+test_frozen_sha_failure_is_detected (__main__.RepositoryTests.test_frozen_sha_failure_is_detected) ... ok
+test_missing_dependency_preflight_is_explicit (__main__.RepositoryTests.test_missing_dependency_preflight_is_explicit) ... ok
+test_nonempty_output_not_overwritten (__main__.RepositoryTests.test_nonempty_output_not_overwritten) ... ok
+test_preview_all_calls_and_paths (__main__.RepositoryTests.test_preview_all_calls_and_paths) ... ok
+test_protected_output_paths (__main__.RepositoryTests.test_protected_output_paths) ... ok
+test_rd_alm_uses_audited_not_raw_infinite_gap (__main__.RepositoryTests.test_rd_alm_uses_audited_not_raw_infinite_gap) ... ok
+test_reference_verifier (__main__.RepositoryTests.test_reference_verifier) ... ok
+test_simulated_process_failure_does_not_claim_success (__main__.RepositoryTests.test_simulated_process_failure_does_not_claim_success) ... ok
+test_strict_and_numerical_identity_boundaries (__main__.RepositoryTests.test_strict_and_numerical_identity_boundaries) ... ok
+test_unknown_selection_fails (__main__.RepositoryTests.test_unknown_selection_fails) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 8.820s
+
+OK
